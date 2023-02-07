@@ -1,0 +1,36 @@
+
+    .planner {
+        float: right;
+        width: 50%;
+        background-color: #f2f2f2;
+        padding: 20px;
+        box-sizing: border-box;
+        vertical-align: top;
+        margin-top: auto;
+        position:relative;  
+        bottom:420px;
+      }
+      
+      .planner table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+      }
+      
+      .planner thead {
+        background-color: #333;
+        color: #fff;
+      }
+      
+      .planner th {
+        border: 1px solid #333;
+        padding: 10px;
+        text-align: left;
+      }
+      
+      .planner td {
+        border: 1px solid #333;
+        padding: 10px;
+      }
+      
+  

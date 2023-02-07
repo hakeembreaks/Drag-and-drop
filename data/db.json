@@ -1,0 +1,65 @@
+{
+    "deliverys": [
+        {
+            "customerId": "1",
+            "customerName": "Inim Lloyd",
+            "pickUpLocation": "mushin, lagos",
+            "dropOffLocation": "oshodi, lagos"
+          
+        },
+
+        {
+            "customerId": "2",
+            "customerName": "Atila Jamez",
+            "pickUpLocation": "Lekki, lagos",
+            "dropOffLocation": "Ajah, lagos"
+          
+        },
+        {
+            "customerId": "3",
+            "customerName": "Rukky Adebayor",
+            "pickUpLocation": "surulere, lagos",
+            "dropOffLocation": "yaba, lagos"
+          
+        },
+        {
+            "customerId": "4",
+            "customerName": "Kemi Breaks",
+            "pickUpLocation": "Magodo, lagos",
+            "dropOffLocation": "Ketu, lagos"
+          
+        },
+        {
+            "customerId": "5",
+            "customerName": "Basit Bukky",
+            "pickUpLocation": "Lekki, lagos",
+            "dropOffLocation": "Ajah, lagos"
+          
+        },
+        {
+            "customerId": "6",
+            "customerName": "Ojo Hafiz",
+            "pickUpLocation": "Ajah, lagos",
+            "dropOffLocation": "Epe, lagos"
+          
+        }
+        
+
+    ],
+    "planner": [
+        {
+          "date": "2023-02-08",
+          "slot1": null,
+          "slot2": null,
+          "slot3": null,
+          "slot4": null
+        },
+        {
+          "date": "2023-02-09",
+          "slot1": null,
+          "slot2": null,
+          "slot3": null,
+          "slot4": null
+        }
+      ]
+}
